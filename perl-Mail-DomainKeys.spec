@@ -3,7 +3,7 @@
 Summary:	Perl module that implements DomainKeys
 Name:		perl-%{module}
 Version:	1.0
-Release:	11
+Release:	12
 License:	Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/Mail-DomainKeys/
