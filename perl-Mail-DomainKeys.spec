@@ -6,7 +6,7 @@ Version:	1.0
 Release:	18
 License:	Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/Mail-DomainKeys/
+Url:		https://search.cpan.org/dist/Mail-DomainKeys/
 Source0:	http://www.cpan.org/modules/by-module/Mail/%{module}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	perl-devel
