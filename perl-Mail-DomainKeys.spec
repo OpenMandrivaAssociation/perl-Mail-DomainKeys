@@ -9,6 +9,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/dist/Mail-DomainKeys/
 Source0:	http://www.cpan.org/modules/by-module/Mail/%{module}-%{version}.tar.gz
 BuildArch:	noarch
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(Crypt::OpenSSL::RSA)
 BuildRequires:	perl(Mail::Address)
